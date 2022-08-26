@@ -15,4 +15,8 @@ Mac - 'npm run package-mac'
 Windows - 'npm run package-win'
 Linux = 'npm run package-linux'
 
+SCREENSHOT
+
+![alt text](https://github.com/AlanGood113/Password-Generator/main/screenshot.png?raw=true)
+
 ===============END=================

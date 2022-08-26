@@ -1,4 +1,18 @@
 # Password-Generator
 Password Generator app made with Electron JS
 
-Added to github without node_modules folder due to its large file size.
+Steps for installation:
+
+1. Clone repository
+2. cd into Password-Generator
+3. run 'npm install'
+4. Finished!
+
+To run the application, run 'npm start'
+
+To download the application:
+Mac - 'npm run package-mac'
+Windows - 'npm run package-win'
+Linux = 'npm run package-linux'
+
+===============END=================

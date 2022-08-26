@@ -17,6 +17,6 @@ Linux = 'npm run package-linux'
 
 SCREENSHOT
 
-![alt text](https://github.com/AlanGood113/Password-Generator/main/screenshot.png?raw=true)
+![Screenshot](screenshot.png)
 
 ===============END=================
